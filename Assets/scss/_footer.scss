@@ -1,0 +1,21 @@
+footer {
+    height: 100px;
+    background-color: rgb(32, 72, 41);
+    width: 100%;
+   
+
+    .flex-row {
+
+        div {
+            padding-top: 40px;
+            display: inline-block;
+            font-size: 1.5rem;
+            color: rgb(146, 229, 161);
+        }
+
+        div:hover {
+            color: rgb(215, 238, 215);
+        }
+    }
+}
+
